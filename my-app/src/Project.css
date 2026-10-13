@@ -1,0 +1,26 @@
+input{
+  width: 60%;
+  margin: %;
+  border-color : aliceblue;
+  outline: none;
+}  
+form{
+  width: 50%;
+  border: 1px solid blue;
+  padding : 50px;
+  margin-left: 150px;
+  background-color: rgb(168, 179, 175);
+  border-radius: 10px;
+}
+button{
+  background-color: rgb(220, 178, 61);
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: 15px;
+  margin-left: 30px;
+}
+label{
+  display: inline-block;
+  margin-top: 2%;
+}

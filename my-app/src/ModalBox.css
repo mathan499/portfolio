@@ -1,0 +1,36 @@
+.modal{
+    display: relative;
+    width:45%;
+    font-size:10px;
+    margin-left: 30%;
+    border:1px solid rgb(red green blue / alpha);
+    border-radius: 30px;
+    padding: 30px;
+    padding-top:  10%;
+    text-align: center;
+    background-color: aliceblue;
+    position: absolute;
+    margin: auto;
+
+}
+.foot {
+    background-color: white;
+    margin-left: 20%;
+    
+}
+span{
+    margin-left: 20%;
+
+}
+h1{
+    margin-left: 20%;
+     
+
+}
+p{
+    margin-left: 20%;
+}
+.head{
+    margin-left: 30%;
+    backgroundcolor: #2c9bf6;
+}
